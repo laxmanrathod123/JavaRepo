@@ -1,0 +1,10 @@
+Polymorphism : 
+One thing have the multiple form 
+
+in short in one class we have multiple method with same name 
+so polymorphism is achieved with the help of method overloading 
+Rules applicable to achieve polymorphism
+1. Method name should be same
+2. number of parameter should be different
+3. Data type of parameter should be different
+4. Order of parameters should be different

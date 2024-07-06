@@ -1,0 +1,36 @@
+Inheritance
+ 
+Aquiring the properties like variable and method from one class to another class
+
+Objective:
+1.Re-usability
+2.Avoid duplication 
+
+parent class extends child class 
+all variable and method are in child class
+
+four type
+1.single  :
+2.multi level :
+3.hierachy : 
+4.multiple 
+
+single level inheritance
+In which there is two clas one is parent class and second is child class
+i.e parent class extends child class
+
+multi level inheritance
+in which parent class extends child class and child class extend another child class
+A extends B extends C
+
+so this is called multi level inheritance
+
+
+hierarchyInheritance
+In which one parent class can extends multiple child class
+
+eg. Parent extends child1 
+    Parent extends child2
+    Parent extends child3
+And if you create the object of any class then you can acess the variable and method 
+present in child and parent class

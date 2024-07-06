@@ -1,0 +1,18 @@
+call by value
+
+in this we are just passing the copy of the value not 
+not original number
+and the other method use by that value they can modify 
+the value by adding some number to it  
+
+eg. Notebook original copy -> make a multiple copy
+
+distribute that multiple copy to multiple student 
+but original copy should not changed 
+
+
+when you passed variable original value should not impacted
+when you passed reference/object original value should be impacted
+
+call by value original value impacted 
+call by reference original value not impacted

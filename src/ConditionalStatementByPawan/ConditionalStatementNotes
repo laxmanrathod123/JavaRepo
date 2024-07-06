@@ -1,0 +1,20 @@
+Conditional statements
+1.if 
+2.if else
+3.Nested if else
+4.switch case
+ {
+ if : 
+======================
+ if(condition){ if condition is satisfy then go to the next line of execution
+ statements; //execute this statement
+ }
+ 
+ if...else
+ 
+ if(condition){ if satify then go the next line and execute the statement 
+ statement;
+ }else  // if condition is not satisfy then execute the statement present in else block 
+ {
+ statement;
+ }

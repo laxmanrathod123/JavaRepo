@@ -1,0 +1,24 @@
+Variable:
+instance variable/class variable
+local variable
+static variable
+
+Classes and object : 
+like getting the properties i.e variable and method from one class to another class
+by creating the object of class in main class and printing the method present inside 
+that class
+we can used inheritance concept to call the other methods which are present in some other class
+for that we need to use the extends keywords
+
+Constructor:
+Type of constructor
+1.default constructor : its by default hidden java will write that constructor
+2.Parameterize constructor: explicitly defined so we need to pass the parameter for that const.
+3.copy constructor : assinging the value of another constructor to main 
+
+call byvalue and call by reference
+callbyvalue: main number will not change
+callbyreference main number will change
+
+
+
